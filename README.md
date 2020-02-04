@@ -1,1 +1,3 @@
-# Data_Warehousing_for_Business_Intelligence_Specialization
+# Data Warehousing for Business Intelligence Specialization
+
+Certification for Database Systems
